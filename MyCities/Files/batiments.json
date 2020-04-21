@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "nom": "",
+    "categorie": "",
+    "localisation": "",
+    "architecte": "",
+    "periode_construction": "",
+    "style": "",
+    "TypeReligieux": "",
+    "culte": "",
+    "typeCulturel": ""
+
+  },
+  {
+    "id": "2",
+    "nom": "",
+    "categorie": "",
+    "localisation": "",
+    "architecte": "",
+    "periode_construction": "",
+    "style": "",
+    "TypeReligieux": "",
+    "culte": "",
+    "typeCulturel": ""
+
+  },
+  {
+    "id": "3",
+    "nom": "",
+    "categorie": "",
+    "localisation": "",
+    "architecte": "",
+    "periode_construction": "",
+    "style": "",
+    "TypeReligieux": "",
+    "culte": "",
+    "typeCulturel": ""
+
+  }
+
+]
