@@ -7,6 +7,7 @@ namespace MyCities.Models
 {
     public class Batiment
     {
+        protected string Id { get; set; }
         protected string Nom { get; set; }
         protected string Categorie { get; set; }
         protected string Localisation { get; set; }
