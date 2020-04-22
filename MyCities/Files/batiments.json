@@ -3,13 +3,15 @@
     "id": "1",
     "nom": "",
     "categorie": "",
-    "localisation": "",
+    "localisation": "GrandEst",
+    "adresse": "",
     "architecte": "",
     "periode_construction": "",
     "style": "",
     "TypeReligieux": "",
     "culte": "",
-    "typeCulturel": ""
+    "typeCulturel": "",
+    "siteweb": ""
 
   },
   {
@@ -17,12 +19,14 @@
     "nom": "",
     "categorie": "",
     "localisation": "",
+    "adresse": "",
     "architecte": "",
     "periode_construction": "",
     "style": "",
     "TypeReligieux": "",
     "culte": "",
-    "typeCulturel": ""
+    "typeCulturel": "",
+    "siteweb": ""
 
   },
   {
@@ -30,12 +34,14 @@
     "nom": "",
     "categorie": "",
     "localisation": "",
+    "adresse": "",
     "architecte": "",
     "periode_construction": "",
     "style": "",
     "TypeReligieux": "",
     "culte": "",
-    "typeCulturel": ""
+    "typeCulturel": "",
+    "siteweb": ""
 
   }
 
