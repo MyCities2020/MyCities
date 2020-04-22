@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.ComponentModel.DataAnnotations;
+using Newtonsoft.Json;
 
 namespace MyCities.Models
 {
     public class Batiment
     {
+        [JsonProperty("id")]
         protected string Id { get; set; }
         protected string Nom { get; set; }
         protected string Categorie { get; set; }
