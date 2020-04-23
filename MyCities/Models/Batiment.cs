@@ -29,8 +29,9 @@ namespace MyCities.Models
         public string Ville { get; set; }
         public string CP { get; set; }
         public string Architecte { get; set; }
+        public string ImageURL { get; set; }
         public DateTime? Periode_construction_debut { get; set; }
-        public DateTime Periode_construction_fin { get; set; }
+        public DateTime? Periode_construction_fin { get; set; }
         public StyleBatiment Style { get; set; }
         public string Siteweb { get; set; }
         public ICollection<DetailsArchitecture> Details { get; set; }

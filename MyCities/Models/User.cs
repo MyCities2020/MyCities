@@ -23,8 +23,11 @@ namespace MyCities.Models
 
             [Display(Name = "Prénom")]
             public string FirstName { get; set; }
-           
-        }
+
+            [Display(Name = "MotDePasse")]
+            public string Password { get; set; }
+
+    }
     }
 
 
