@@ -13,7 +13,7 @@ namespace MyCities.Models
     }
     public class BatimentReligieux : Batiment
     {
-        protected string TypeReligieux { get; set; }
-        protected TypeCulte Culte { get; set; }
+        public string TypeReligieux { get; set; }
+        public TypeCulte Culte { get; set; }
     }
 }

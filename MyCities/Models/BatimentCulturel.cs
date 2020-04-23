@@ -6,7 +6,7 @@ namespace MyCities.Models
    
     public class BatimentCulturel : Batiment
     {
-        protected string TypeCulturel { get; set; }
+        public string TypeCulturel { get; set; }
     }
 
 }
