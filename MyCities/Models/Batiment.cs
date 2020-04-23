@@ -16,8 +16,6 @@ namespace MyCities.Models
         Bizintin,
         Renaissance,
         Roman,
-
-
     }
     public class Batiment
     {
