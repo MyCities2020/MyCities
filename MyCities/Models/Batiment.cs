@@ -22,7 +22,7 @@ namespace MyCities.Models
     public class Batiment
     {
        
-        public int Id { get; set; }
+        public int IdBatiment { get; set; }
         public string Nom { get; set; }
         public double Longitude{ get; set; }
         public double Latitude { get; set; }

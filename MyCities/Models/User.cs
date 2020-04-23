@@ -7,7 +7,7 @@ namespace MyCities.Models
 {
     public class User
     {          
-            public int ID { get; set; }      
+            public int Iduser { get; set; }      
      
          
             [Required(AllowEmptyStrings = false, ErrorMessage = "entrer une adresse mail valide")]
