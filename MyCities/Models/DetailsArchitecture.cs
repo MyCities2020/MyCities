@@ -7,6 +7,7 @@ namespace MyCities.Models
 {
     public class DetailsArchitecture
     {
+        public int Id { get; set; }
         public string NomDetail { get; set; }
         public string Description { get; set; }
     }

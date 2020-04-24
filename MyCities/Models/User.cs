@@ -7,7 +7,7 @@ namespace MyCities.Models
 {
     public class User
     {          
-            public int Iduser { get; set; }      
+            public int Id { get; set; }      
      
          
             [Required(AllowEmptyStrings = false, ErrorMessage = "entrer une adresse mail valide")]
@@ -26,6 +26,7 @@ namespace MyCities.Models
 
             [Display(Name = "MotDePasse")]
             public string Password { get; set; }
+            public string Role { get; set; }
 
     }
     }
